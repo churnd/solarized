@@ -12,6 +12,8 @@ lastchanged: March 21, 2011
 Solarized
 =========
 
+Hi!
+
 ## Precision colors for machines and people
 
 [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)\
